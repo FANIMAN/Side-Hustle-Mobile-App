@@ -1,4 +1,4 @@
-# authentictelogin
+# Side-Hustle-Mobile-App
 
 A new Flutter project.
 
